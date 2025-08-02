@@ -17,7 +17,8 @@ o	Himachal and J&K.
 •	Incentivize underperforming categories.
 •	Launch region-specific offers during low-activity quarters.
 •	Promote financial services in markets with maturity in UPI usage.
-•	User Engagement and Growth Strategy
+
+User Engagement and Growth Strategy
 Objective
 •	PhonePe wants to strengthen its market position by analyzing user engagement at the state and district level. By identifying how users interact with the app, PhonePe can design targeted strategies to drive growth, retention, and deeper penetration.
 Potential Insights
@@ -29,6 +30,7 @@ Outcome
 •	Focused marketing and engagement campaigns.
 •	Feature prioritization based on regional user behavior.
 •	Data-driven growth strategies for underpenetrated areas.
+
 Transaction Analysis for Market Expansion
 Objective
 PhonePe wants to leverage transaction data to understand:
@@ -42,6 +44,7 @@ o	Spot emerging states where transaction activity is accelerating.
 2.	Market Potential
 o	Analyze low-performing states with potential for market expansion.
 o	Compare transaction volume vs. value to see high-value but low-volume states.
+
 User Registration Analysis
 Objective
 PhonePe wants to analyze user registration data to:
