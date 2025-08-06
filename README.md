@@ -19,6 +19,7 @@ o	Himachal and J&K.
 •	Promote financial services in markets with maturity in UPI usage.
 
 User Engagement and Growth Strategy
+
 Objective
 •	PhonePe wants to strengthen its market position by analyzing user engagement at the state and district level. By identifying how users interact with the app, PhonePe can design targeted strategies to drive growth, retention, and deeper penetration.
 Potential Insights
